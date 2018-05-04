@@ -25,4 +25,5 @@ terraform apply /tmp/tf11.out
 * wait 5/25 minutes and you can receive the notification
 
 ## Schema of the terraform objects 
-! [terraform object schema] (https://github.com/giuseppeborgese/Terraform-Monitor-Notify-AWS-Root-login/raw/master/no-root-login.jpg)
+! [terraform object schema]
+(https://github.com/giuseppeborgese/Terraform-Monitor-Notify-AWS-Root-login/raw/master/no-root-login.jpg)
