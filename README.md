@@ -1,4 +1,4 @@
-# Terraform-Monitor-Notify-AWS-Root-login
+# Terraform Monitor Notify AWS Root login
 How to Monitor and Notify on AWS Account Root User login using Terraform
 
 We assume you have already enable AWS CloudTrail and you want to receive an email notification if the root account login.
