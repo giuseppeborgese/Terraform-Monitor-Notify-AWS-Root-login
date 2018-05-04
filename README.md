@@ -12,6 +12,9 @@ export AWS_SECRET_ACCESS_KEY=xxxxxxx
 export AWS_REGION=us-east-1
 ```
 * git clone this repo
+```
+git clone  https://github.com/giuseppeborgese/Terraform-Monitor-Notify-AWS-Root-login.git
+```
 * edit the vars.tf putting your email and eventually change the region
 * run terraform
 ```
