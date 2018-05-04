@@ -25,5 +25,4 @@ terraform apply /tmp/tf11.out
 * wait 5/25 minutes and you can receive the notification
 
 ## Schema of the terraform objects 
-! [terraform object schema]
-(/images/no-root-login.jpg)
+! [terraform object schema](/images/no-root-login.jpg)
