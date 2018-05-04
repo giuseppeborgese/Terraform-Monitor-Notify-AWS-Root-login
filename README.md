@@ -26,4 +26,4 @@ terraform apply /tmp/tf11.out
 
 ## Schema of the terraform objects 
 ! [terraform object schema]
-(./no-root-login.jpg)
+(/no-root-login.jpg)
