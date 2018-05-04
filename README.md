@@ -26,4 +26,4 @@ terraform apply /tmp/tf11.out
 
 ## Schema of the terraform objects 
 ! [terraform object schema]
-(https://github.com/giuseppeborgese/Terraform-Monitor-Notify-AWS-Root-login/raw/master/no-root-login.jpg)
+(./no-root-login.jpg)
