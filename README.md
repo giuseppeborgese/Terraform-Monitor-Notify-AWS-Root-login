@@ -29,3 +29,7 @@ terraform apply /tmp/tf11.out
 
 ## Schema of the terraform objects 
 ![terraform object schema](/images/no-root-login.jpg)
+
+## Video tutorial
+
+[![How to Monitor and Notify on AWS Account Root User login using Terraform](https://img.youtube.com/vi/cNtZWdxqhRc/0.jpg)](https://youtu.be/cNtZWdxqhRc)
