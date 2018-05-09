@@ -33,3 +33,6 @@ terraform apply /tmp/tf11.out
 ## Video tutorial
 
 [![How to Monitor and Notify on AWS Account Root User login using Terraform](https://img.youtube.com/vi/cNtZWdxqhRc/0.jpg)](https://youtu.be/cNtZWdxqhRc)
+
+## Useful resources around this topic
+* [Similar template in CloudFormation for monitor Activity](https://gist.github.com/rjsamson/c0875ef1410cb84fcfa5)
