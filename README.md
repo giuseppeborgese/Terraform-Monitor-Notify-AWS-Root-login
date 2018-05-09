@@ -35,4 +35,6 @@ terraform apply /tmp/tf11.out
 [![How to Monitor and Notify on AWS Account Root User login using Terraform](https://img.youtube.com/vi/cNtZWdxqhRc/0.jpg)](https://youtu.be/cNtZWdxqhRc)
 
 ## Useful resources around this topic
-* [Similar template in CloudFormation for monitor Activity](https://gist.github.com/rjsamson/c0875ef1410cb84fcfa5)
+* [Similar template in CloudFormation for CloudTrail Alarms](https://gist.github.com/rjsamson/c0875ef1410cb84fcfa5)
+* [Bypassing CloudTrail and CloudWatch monitoring of AWS API](https://mysteriouscode.io/blog/bypassing-cloudtrail-and-cloudwatch-monitoring-of-aws-api/) 
+* [AWS official Documentation about this topic](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudwatch-alarms-for-cloudtrail.html#cloudwatch-alarms-for-cloudtrail-iam-policy-changes)
