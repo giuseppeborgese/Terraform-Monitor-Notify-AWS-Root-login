@@ -38,3 +38,5 @@ terraform apply /tmp/tf11.out
 * [Similar template in CloudFormation for CloudTrail Alarms](https://gist.github.com/rjsamson/c0875ef1410cb84fcfa5)
 * [Bypassing CloudTrail and CloudWatch monitoring of AWS API](https://mysteriouscode.io/blog/bypassing-cloudtrail-and-cloudwatch-monitoring-of-aws-api/) 
 * [AWS official Documentation about this topic](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudwatch-alarms-for-cloudtrail.html#cloudwatch-alarms-for-cloudtrail-iam-policy-changes)
+* [Center for Internet Security Amazon Web Services Foundations pag10](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf)
+* [IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
